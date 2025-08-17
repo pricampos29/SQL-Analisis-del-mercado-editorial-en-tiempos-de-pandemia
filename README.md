@@ -1,15 +1,8 @@
 # 📚 Proyecto SQL: Análisis del mercado editorial en tiempos de pandemia
 Este proyecto explora el comportamiento de los usuarios/as de una startup enfocada en libros, basada en una base de datos relacionada con información sobre obras, editoriales, autores/as, calificaciones y reseñas.
 
-## 🎯 Objetivo general
+## 🎯 Objetivo 
 Identificar tendencias en la publicación y recepción de libros para generar una propuesta de valor efectiva para un nuevo producto en el sector editorial.
-
-## 🎯 Objetivos específicos
-- Determinar la cantidad de libros recientes.
-- Analizar la popularidad de los libros según reseñas y calificación promedio.
-- Identificar la editorial con mayor volumen de publicaciones.
-- Determinar el autor mejor calificado.
-- Comprender el comportamiento de los usuarios más activos en la plataforma.
 
 ## ⚙️ Metodología
 - Se utilizó una base de datos con información sobre libros, editoriales, autores, reseñas y usuarios.
